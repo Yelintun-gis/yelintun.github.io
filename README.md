@@ -10,7 +10,7 @@
 
 ### Education
 - M.S., Remote Sensing and Geographic Information Systems | Asian Institute of Technology (_August 2019 - May 2021_)
-- PG Dip., Geographic Information Systems            | University of Yangon (_January 2017 - December 2017_)
-- B.S., Forestry                                     | University of Science in Forestry (_December 2009 - November 2014_)
+- PG Dip., Geographic Information Systems               | University of Yangon (_January 2017 - December 2017_)
+- B.S., Forestry                                              | University of Science in Forestry (_December 2009 - November 2014_)
 
 
