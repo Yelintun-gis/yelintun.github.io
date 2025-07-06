@@ -7,9 +7,10 @@
 - Developed four interactive Power BI dashboards for WHO Health Cluster to support emergency coordination and partner operations. [View dashboard screenshots (Google Site)](https://sites.google.com/view/health-cluster-who-dashboards/home?authuser=0) 
 
 - big impact project 1
+
 ### Education
 - M.S.,    Remote Sensing and Geographic Information Systems | Asian Institute of Technology (_August 2019 - May 2021_)
-- PG Dip., Geographic Information Systems | University of Yangon (_January 2017 - December 2017_)
-- B.S.,    Forestry | University of Science in Forestry (_December 2009 - November 2014_)
+- PG Dip., Geographic Information Systems                    | University of Yangon (_January 2017 - December 2017_)
+- B.S.,    Forestry                                          | University of Science in Forestry (_December 2009 - November 2014_)
 
 
