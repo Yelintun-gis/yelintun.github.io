@@ -3,9 +3,9 @@
 #### Geospatial expert with a passion for turning complex spatial data into clear, actionable insights. Over 9 years of experience supporting international teams (WHO, Airbus, GISTDA, FAO) with GIS, remote sensing, and Python-based solutions. Strong in mapping, modeling, and dashboards for health, environment, and disaster response sectors.
 
 ### Education
-- M.S.,    Remote Sensing and Geographic Information Systems (_May 2021_)
-- PG Dip., Geographic Information Systems (_
-- B.S.,    Forestry
+- M.S.,    Remote Sensing and Geographic Information Systems | Asian Institute of Technology (_August 2019 - May 2021_)
+- PG Dip., Geographic Information Systems | University of Yangon (_January 2017 - December 2017_)
+- B.S.,    Forestry | University of Science in Forestry (_December 2009 - November 2014_)
 
 ### Work Experience
 GIS Consultant @World Health Organization
