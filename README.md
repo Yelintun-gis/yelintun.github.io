@@ -62,8 +62,8 @@
 - B.S., Forestry                               | University of Science in Forestry (_December 2009 - November 2014_)
 
 ### Publications
-1. Connette, K. J. L. J., Connette, G., Bernd, A., Phyo, P., Aung, K. H., Tun, Y. L., … Songer, M. (2016). Assessment of mining extent and expansion in Myanmar based on freely-available satellite imagery. Remote Sensing, 8(11), 1–14. [https://www.mdpi.com/2072-4292/8/11/912]
-2. Bhagwat, T., Hess, A., Horning, N., Khaing, T., Thein, Z. M., Aung, K. M., … Leimgruber, P. (2017). Losing a jewel-Rapid declines in Myanmar’s intact forests from 2002-2014. PLoS ONE, 12(5). https://doi.org/10.1371/journal.pone.0176364 [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176364]
+1. Connette, K. J. L. J., Connette, G., Bernd, A., Phyo, P., Aung, K. H., Tun, Y. L., … Songer, M. (2016). Assessment of mining extent and expansion in Myanmar based on freely-available satellite imagery. Remote Sensing, 8(11), 1–14. [Publication] (https://www.mdpi.com/2072-4292/8/11/912)
+2. Bhagwat, T., Hess, A., Horning, N., Khaing, T., Thein, Z. M., Aung, K. M., … Leimgruber, P. (2017). Losing a jewel-Rapid declines in Myanmar’s intact forests from 2002-2014. PLoS ONE, 12(5). [Publication] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0176364)
 
 
 
