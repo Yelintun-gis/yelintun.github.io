@@ -17,7 +17,7 @@
 **GIS Consultant/Information Management Officer @ Geographic Information Systems Center**  
 **Assigned to: Health Cluster, World Health Organization, WCO, Yangon, Myanmar (_September 2024 - Current_)**
 - Developed five interactive Power BI dashboards for WHO Health Cluster to support emergency coordination and partner operations. [View dashboard screenshots (Google Site)](https://sites.google.com/view/health-cluster-who-dashboards/home?authuser=0) 
-- Produced analytical reports, maps, and infographics to support strategic decision-making and coordination efforts within the Health Cluster. [Health Cluster Bulletin](https://healthcluster.who.int/countries-and-regions/myanmar/key-resources)
+- Produced analytical reports, maps, and infographics to support strategic decision-making and coordination efforts within the Health Cluster. [Health Cluster Bulletins, SitRep, Maps (Google Site)](https://sites.google.com/view/health-cluster-who-dashboards/health-cluster-dashboards/health-cluster-bulletins-sitrep-maps)
 - Delivered technical support and training to health partners on data collection tools (Kobo, ActivityInfo, PHIS Toolkit) and GIS applications to enhance field reporting. [View some examples (Google Site)]()
 - Managed and regularly updated the Health Cluster SharePoint platform to ensure seamless information sharing among WHO, UN agencies, NGOs, and other partners. [View SharePoint screenshots (Google Site)]()
 
