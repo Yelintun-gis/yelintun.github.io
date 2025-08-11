@@ -14,7 +14,7 @@
 - **Project Management:** Atlassian JIRA
 
 ### Work Experience
-**GIS Consultant/Information Management Officer @ Geographic Information Systems Center** 
+**GIS Consultant/Information Management Officer @ Geographic Information Systems Center**  
 **Assigned to: Health Cluster, World Health Organization, WCO, Yangon, Myanmar (_September 2024 - Current_)**
 - Developed five interactive Power BI dashboards for WHO Health Cluster to support emergency coordination and partner operations. [View dashboard screenshots (Google Site)](https://sites.google.com/view/health-cluster-who-dashboards/home?authuser=0) 
 - Produced analytical reports, maps, and infographics to support strategic decision-making and coordination efforts within the Health Cluster. [Health Cluster Bulletin](https://healthcluster.who.int/countries-and-regions/myanmar/key-resources)
